@@ -1,11 +1,12 @@
 {
-  "name": "e-comarsewebsite",
+  "name": "e-commercewebsite",
   "private": true,
   "version": "1.0.0",
   "peroxy": "https://bharat-ecommarse-2.onrender.com",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
